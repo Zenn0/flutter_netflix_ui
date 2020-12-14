@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:flutter/material.dart';
 import 'package:netflix_ui/cubits/cubits.dart';
 import 'package:netflix_ui/data/data.dart';
